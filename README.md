@@ -1,6 +1,6 @@
 # wlink
 
-![wlink Logo](path/to/logo.png)
+![Alt text](docs/assets/imgs/datacenter)
 
 wlink is a dynamic web application built with Angular, featuring stunning animations and visualizations. It provides an interactive user experience with a robust contact system.
 
