@@ -17,7 +17,6 @@ wlink is a dynamic web application built with Angular, featuring stunning animat
   - Powered by a custom .NET C# backend using MailKit.
 - **Data Validation**: Implements regex-based validation for contact form inputs, ensuring data integrity before submission.
 
-![Feature Showcase](path/to/feature-showcase.gif)
 
 ## Getting Started
 
@@ -82,11 +81,6 @@ Example regex pattern for email validation:
 const emailPattern = /^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,4}$/;
 ```
 
-## Usage
-
-[Add screenshots or GIFs demonstrating key features]
-
-![Usage Example](path/to/usage-example.gif)
 
 ## Contributing
 
