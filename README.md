@@ -1,8 +1,8 @@
 # WLINK
 
 <div align="center">
-  <img src="./docs/assets/imgs/loayout (1).png" alt="WLINK Layout 1" width="48%">
-  <img src="./docs/assets/imgs/loayout (1).png" alt="WLINK Layout 2" width="48%">
+  <img src="./docs/assets/imgs/loayout (1)" alt="WLINK Layout 1" width="48%">
+  <img src="./docs/assets/imgs/loayout (2)" alt="WLINK Layout 2" width="48%">
 </div>
 
 wlink is a dynamic web application built with Angular, featuring stunning animations and visualizations. It provides an interactive user experience with a robust contact system.
