@@ -2,8 +2,8 @@
 
 
 <div align="center">
+    <img src="./docs/assets/imgs/layout (2).png" alt="WLINK Layout 2" width="48%">
   <img src="./docs/assets/imgs/layout (1).png" alt="WLINK Layout 1" width="48%">
-  <img src="./docs/assets/imgs/layout (2).png" alt="WLINK Layout 2" width="48%">
 </div>
 wlink is a dynamic web application built with Angular, featuring stunning animations and visualizations. It provides an interactive user experience with a robust contact system.
 
@@ -81,10 +81,6 @@ Example regex pattern for email validation:
 const emailPattern = /^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,4}$/;
 ```
 
-
-## Contributing
-
-We welcome contributions! Please see our [CONTRIBUTING.md](CONTRIBUTING.md) for details on how to submit pull requests, report issues, or request features.
 
 ## License
 
